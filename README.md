@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vinda(o) ao meu perfil!
 
  <div>
    <a href="https://github.com/naiantfields">
